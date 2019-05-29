@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ApplicationLogin</string>
+    <string name="label_Login">Login</string>
+    <string name="username_hint">Nombre de usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="button_login">Acceder</string>
+    <string name="alert_login_title">Faltan datos</string>
+    <string name="alert_login_message">Debe rellenar ambos campos</string>
 </resources>
